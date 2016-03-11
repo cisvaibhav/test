@@ -1,0 +1,14 @@
+{
+  "name": "cisvaibhav/choba",
+  "description" : "Repo for Choba.",
+  "minimum-stability": "dev",
+  "require": {
+    "cisvaibhav/test":"dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:cisvaibhav/test.git"
+    }
+  ]
+}
